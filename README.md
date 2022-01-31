@@ -1,5 +1,3 @@
-# eland
-
 # 이랜드 나이스(ElandNice)
 
 <a href="https://wess.tistory.com" target="_blank">
@@ -22,7 +20,7 @@
 # 이랜드 초이스(ElandChoice)
 
 <a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/eland/ElandChoice" alt="ElandChoice" style="width:300px">
+    <img src="https://webfontworld.github.io/eland/ElandChoice.jpg" alt="ElandChoice" style="width:300px">
 </a>
 <pre>
 @font-face {
